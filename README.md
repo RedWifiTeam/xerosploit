@@ -4,22 +4,20 @@
 [![Build](https://img.shields.io/badge/Supported_OS-linux-orange.svg)]()
 [![AUR](https://img.shields.io/aur/license/yaourt.svg)]()
 
-Xerosploit
+Xerosploit For MacOS
 =
-Xerosploit is a penetration testing toolkit whose goal is to perform man in the middle attacks for testing purposes. It brings various modules that allow to realise efficient attacks, and also allows to carry out denial of service attacks and port scanning.
+本项目移植自 https://github.com/LionSec/xerosploit
 Powered by <a href="https://www.bettercap.org"> bettercap</a> and <a href="https://www.bettercap.org"> nmap</a>.
 
-![](http://i.imgur.com/bbr48Ep.png)
+![](https://github.com/TheKingOfDuck/xerosploit/blob/master/screenshots.png)
 
-Dependencies
+
+环境依赖：
 =
 
 - nmap 
 - hping3 
-- build-essential 
 - ruby-dev 
-- libpcap-dev 
-- libgmp3-dev
 - tabulate 
 - terminaltables
 
