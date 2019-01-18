@@ -9,7 +9,7 @@ Xerosploit For MacOS
 本项目移植自 https://github.com/LionSec/xerosploit
 
 
-Powered by <a href="https://www.bettercap.org"> bettercap</a> and <a href="https://www.bettercap.org"> nmap</a>.
+集成 <a href="https://www.bettercap.org"> bettercap</a> 和 <a href="https://www.bettercap.org"> nmap两大渗透工具。</a>.
 
 ![](https://github.com/TheKingOfDuck/xerosploit/blob/master/screenshot.jpg)
 
@@ -28,7 +28,7 @@ Powered by <a href="https://www.bettercap.org"> bettercap</a> and <a href="https
 
 安装：
 =
-Dependencies will be automatically installed.
+笔者尽力弄了自动安装 但是添加命令到终端配置文件似乎还是有问题 请手动完成！
 
     git clone https://github.com/LionSec/xerosploit
     cd xerosploit && sudo python install.py
