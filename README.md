@@ -7,12 +7,14 @@
 Xerosploit For MacOS
 =
 本项目移植自 https://github.com/LionSec/xerosploit
+
+
 Powered by <a href="https://www.bettercap.org"> bettercap</a> and <a href="https://www.bettercap.org"> nmap</a>.
 
 ![](https://github.com/TheKingOfDuck/xerosploit/blob/master/screenshots.png)
 
 
-环境依赖：
+环境：
 =
 
 - nmap 
@@ -24,7 +26,7 @@ Powered by <a href="https://www.bettercap.org"> bettercap</a> and <a href="https
 
 
 
-Instalation
+安装：
 =
 Dependencies will be automatically installed.
 
@@ -33,7 +35,7 @@ Dependencies will be automatically installed.
     sudo xerosploit
 
 
-Tested on
+测试：
 =
 
 <table>
@@ -42,16 +44,8 @@ Tested on
         <th> Version </th>
     </tr>
     <tr>
-        <td>Ubuntu</td>
-        <td> 16.04  / 15.10 </td>
-    </tr>
-    <tr>
-        <td>Kali linux</td>
-        <td> Rolling / Sana</td>
-    </tr>
-    <tr>
-        <td>Parrot OS</td>
-        <td>3.1 </td>
+        <td>MacOS</td>
+        <td> 10.14 </td>
     </tr>
 </table>
 
