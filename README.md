@@ -1,7 +1,7 @@
 
 [![Version](https://img.shields.io/badge/Xerosploit-Version_1.0-brightgreen.svg?maxAge=259200)]()
 [![PyPI](https://img.shields.io/badge/Python-2.7-blue.svg)]()
-[![Build](https://img.shields.io/badge/Supported_OS-linux-orange.svg)]()
+[![Build](https://img.shields.io/badge/Supported_OS-macos-orange.svg)]()
 [![AUR](https://img.shields.io/aur/license/yaourt.svg)]()
 
 Xerosploit For MacOS
@@ -11,7 +11,7 @@ Xerosploit For MacOS
 
 Powered by <a href="https://www.bettercap.org"> bettercap</a> and <a href="https://www.bettercap.org"> nmap</a>.
 
-![](https://github.com/TheKingOfDuck/xerosploit/blob/master/screenshots.png)
+![](https://github.com/TheKingOfDuck/xerosploit/blob/master/screenshot.png)
 
 
 环境：
@@ -50,30 +50,29 @@ Dependencies will be automatically installed.
 </table>
 
 
-
-features 
+功能：
 =
-- Port scanning
-- Network mapping
-- Dos attack
-- Html code injection
-- Javascript code injection
-- Download intercaption and replacement
-- Sniffing
-- Dns spoofing
-- Background audio reproduction
-- Images replacement
-- Drifnet
-- Webpage defacement and more ...
+- 端口扫描
+- 局域网扫描
+- Dos 攻击
+- Html代码注入
+- Javascript代码注入
+- 下载劫持
+- 嗅探
+- Dns欺骗
+- 视频播放（优酷）
+- 图片替换
+- 图片捕获
+- 网页修改 ...
 
-Demonstration
+详细介绍：
 =
-https://www.youtube.com/watch?v=35QUrtZEV9U
+未完待续
 
-I have some questions!
+Bug提交
 =
 
-Please visit https://github.com/LionSec/xerosploit/issues
+请点击 https://github.com/TheKingOfDuck/xerosploit/issues
 
 Donations
 =
@@ -83,8 +82,6 @@ Donations
 
 Contact
 =
-- Website : http://lionsec.net
-- Youtube : https://youtube.com/inf98es
-- Facebook : https://facebook.com/in98
+- Website : https://github.com/TheKingOfDuck/
 - Twitter: @LionSec1
 - Email : informatic98es@gmail.com
