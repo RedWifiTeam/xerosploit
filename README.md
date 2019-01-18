@@ -11,7 +11,7 @@ Xerosploit For MacOS
 
 Powered by <a href="https://www.bettercap.org"> bettercap</a> and <a href="https://www.bettercap.org"> nmap</a>.
 
-![](https://github.com/TheKingOfDuck/xerosploit/blob/master/screenshot.png)
+![](https://github.com/TheKingOfDuck/xerosploit/blob/master/screenshot.jpg)
 
 
 环境：
@@ -74,14 +74,10 @@ Bug提交
 
 请点击 https://github.com/TheKingOfDuck/xerosploit/issues
 
-Donations
-=
-- Paypal : https://www.paypal.me/lionsec
-- Bitcoin : 12dM5kZjYMizNuXaqu7QZBLNDkXjfKYpRD
 
 
-Contact
+联系：
 =
-- Website : https://github.com/TheKingOfDuck/
-- Twitter: @LionSec1
-- Email : informatic98es@gmail.com
+- 博客 : https://github.com/TheKingOfDuck/
+- 微信: TheKingOfGaGaGa
+- 邮箱 : 27958875@qq.com
