@@ -9,7 +9,7 @@ Xerosploit For MacOS
 本项目移植自 https://github.com/LionSec/xerosploit
 
 
-集成 <a href="https://www.bettercap.org"> bettercap</a> 和 <a href="https://www.bettercap.org"> nmap两大渗透工具。</a>.
+集成 <a href="https://www.bettercap.org"> bettercap</a> 和 <a href="https://www.bettercap.org"> nmap</a>两大渗透工具。.
 
 ![](http://www.gzdata.net.cn/2017/screenshot.jpg)
 
