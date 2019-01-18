@@ -1,7 +1,7 @@
 
 [![Version](https://img.shields.io/badge/Xerosploit-Version_1.0-brightgreen.svg?maxAge=259200)]()
 [![PyPI](https://img.shields.io/badge/Python-2.7-blue.svg)]()
-[![Build](https://img.shields.io/badge/Supported_OS-macos-orange.svg)]()
+[![Build](https://img.shields.io/badge/Supported_OS-MacOS-orange.svg)]()
 [![AUR](https://img.shields.io/aur/license/yaourt.svg)]()
 
 Xerosploit For MacOS
@@ -11,7 +11,7 @@ Xerosploit For MacOS
 
 集成 <a href="https://www.bettercap.org"> bettercap</a> 和 <a href="https://www.bettercap.org"> nmap两大渗透工具。</a>.
 
-![](https://github.com/TheKingOfDuck/xerosploit/blob/master/screenshot.jpg)
+![](http://www.gzdata.net.cn/2017/screenshot.jpg)
 
 
 环境：
@@ -22,8 +22,6 @@ Xerosploit For MacOS
 - ruby-dev 
 - tabulate 
 - terminaltables
-
-
 
 
 安装：
@@ -40,8 +38,8 @@ Xerosploit For MacOS
 
 <table>
     <tr>
-        <th>Operative system</th>
-        <th> Version </th>
+        <th>系统</th>
+        <th>版本</th>
     </tr>
     <tr>
         <td>MacOS</td>
